@@ -4,4 +4,7 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+<<<<<<< HEAD
 anyhow = "1.0"
+=======
+>>>>>>> 0d1a4ebb6c6c9bd73bcf5d827b3f9e05ab7e94a8

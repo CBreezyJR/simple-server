@@ -3,6 +3,7 @@
 version = 4
 
 [[package]]
+<<<<<<< HEAD
 name = "anyhow"
 version = "1.0.100"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -14,3 +15,7 @@ version = "0.1.0"
 dependencies = [
  "anyhow",
 ]
+=======
+name = "simple-server"
+version = "0.1.0"
+>>>>>>> 0d1a4ebb6c6c9bd73bcf5d827b3f9e05ab7e94a8
